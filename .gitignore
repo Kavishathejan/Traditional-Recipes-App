@@ -1,0 +1,13 @@
+# Flutter
+recipe_book_app/.dart_tool/
+recipe_book_app/.idea/
+recipe_book_app/.packages
+recipe_book_app/.flutter-plugins
+recipe_book_app/.flutter-plugins-dependencies
+recipe_book_app/.metadata
+recipe_book_app/build/
+recipe_book_app/pubspec.lock
+
+# Node.js / Backend
+recipe_api/node_modules/
+recipe_api/.env
